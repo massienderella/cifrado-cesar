@@ -1,0 +1,25 @@
+{
+  "name": "cifradocesar",
+  "version": "1.0.0",
+  "description": "* Pixel Perfect (Replicar el diseño con exactitud)\r * Estructura de carpetas y archivos\r * Nombramiento de clases, id, etc\r * Indentación\r * Archivo README.md actualizado y correctamente redactado\r * Uso de comentarios para hacer tu código más legible",
+  "main": "cifradoCesar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massienderella/cifrado-cesar.git"
+  },
+  "keywords": [
+    "cifrado"
+  ],
+  "author": "Massiel Moraga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/massienderella/cifrado-cesar/issues"
+  },
+  "homepage": "https://github.com/massienderella/cifrado-cesar#readme",
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
